@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="x_66238_tn47_int" label="INT User" max_length="40" name="x_66238_tn47_int_user" type="collection">
-        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
-        <index name="index">
-            <element name="user"/>
-        </index>
-    </element>
-</database>

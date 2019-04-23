@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="TN47">c09712a00fc013007500cbdce1050e3f</menu>
+        <menu display_value="">c09712a00fc013007500cbdce1050e3f</menu>
         <name>TN47</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -28,7 +28,7 @@
         <sys_updated_on>2018-01-30 22:44:10</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_66238_tn47.user" name="x_66238_tn47.user">0c9712a00fc013007500cbdce1050e41</user_role>
+        <user_role display_value="">0c9712a00fc013007500cbdce1050e41</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
